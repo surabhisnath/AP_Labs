@@ -1,6 +1,6 @@
 # Advanced Programming Labs
 
-Contains 8 AP Labs:
+Contains 8 AP Labs. Refer to pdf files for detailed problem statement
 1) Hostel Room Allocation System
 2) College Ranking System using Interfaces
 3) Fantasy Game using Inheritance
