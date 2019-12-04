@@ -1,4 +1,4 @@
-# AP_Labs
+# Advanced Programming Labs
 
 Contains 8 AP Labs:
 1) Hostel Room Allocation System
